@@ -8,3 +8,4 @@ Required information:
 - Email
 - Phone
 - Event
+- Password
