@@ -18,4 +18,7 @@ of the Event Management System.
 
 ### 1. Event Budget
 
-The treasurer can set and manage the budget for an event.
+The treasurer can set and manage the budget for an event.  
+
+## Member list  
+- Executive officer
