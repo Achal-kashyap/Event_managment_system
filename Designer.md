@@ -4,7 +4,7 @@ Design basic Design and Layout.
 - Design the Home Page
 - Design login Page
 - Design Resistration Page
-- DEsign Events Page
+- Design Events Page
 - Design basic colors and Fonts
 - Create a simple and user friendly Layout
 
