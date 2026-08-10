@@ -9,3 +9,5 @@ Required information:
 - Phone
 - Event
 - Password
+- Aadhar No.
+- DOB
